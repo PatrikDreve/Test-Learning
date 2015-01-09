@@ -8,8 +8,9 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main(void) {
+    
+    printf("Testande och lärande av ny kod.");
+    
     return 0;
 }
